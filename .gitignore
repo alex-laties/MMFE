@@ -1,2 +1,7 @@
 .Python
 .hg*
+
+include/
+bin/
+lib/
+pyglet/
