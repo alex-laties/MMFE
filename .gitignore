@@ -1,6 +1,7 @@
 .Python
 .hg*
 
+build/
 include/
 bin/
 lib/
