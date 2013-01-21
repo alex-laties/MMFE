@@ -1,5 +1,7 @@
 .Python
 .hg*
+*.sw*
+*.pyc
 
 build/
 include/
