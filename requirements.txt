@@ -1,5 +1,6 @@
 Twisted==12.3.0
 argparse==1.2.1
+autobahn==0.5.9
 pyglet==1.2alpha1
 requests==1.1.0
 wsgiref==0.1.2
